@@ -1,3 +1,4 @@
+![logo](https://github.com/srivastavarohan/srivasatavarohan/blob/main/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Rohan Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
